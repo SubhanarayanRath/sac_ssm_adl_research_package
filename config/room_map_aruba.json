@@ -1,0 +1,56 @@
+{
+  "M001": "Bedroom",
+  "M002": "Bedroom",
+  "M003": "Bedroom",
+
+  "M004": "Bathroom",
+  "M005": "Bathroom",
+
+  "M006": "Hallway",
+  "M007": "Hallway",
+  "M008": "Hallway",
+
+  "M009": "LivingRoom",
+  "M010": "LivingRoom",
+  "M011": "LivingRoom",
+  "M012": "LivingRoom",
+  "M013": "LivingRoom",
+
+  "M014": "Kitchen",
+  "M015": "Kitchen",
+  "M016": "Kitchen",
+  "M017": "Kitchen",
+
+  "M018": "DiningRoom",
+  "M019": "DiningRoom",
+
+  "M020": "Office",
+  "M021": "Office",
+  "M022": "Office",
+
+  "M023": "Bedroom2",
+  "M024": "Bedroom2",
+  "M025": "Bedroom2",
+
+  "M026": "Entrance",
+  "M027": "Entrance",
+
+  "M028": "Laundry",
+  "M029": "Laundry",
+
+  "M030": "Outside",
+  "M031": "Outside",
+
+  "D001": "Entrance",
+  "D002": "Kitchen",
+  "D004": "LivingRoom",
+
+  "T001": "LivingRoom",
+  "T002": "Kitchen",
+  "T003": "Bedroom",
+  "T004": "Bathroom",
+  "T005": "Office",
+
+  "ENTERHOME": "Entrance",
+  "LEAVEHOME": "Entrance"
+}

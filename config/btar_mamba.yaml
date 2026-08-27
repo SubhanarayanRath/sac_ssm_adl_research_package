@@ -1,0 +1,16 @@
+seed: 42
+
+model:
+  model_dim: 96
+  dropout: 0.30
+
+training:
+  batch_size: 128
+  warmup_epochs: 2
+  epochs: 20
+  learning_rate: 0.0003
+  weight_decay: 0.0001
+  patience: 4
+  logit_adjust_tau: 0.25
+  boundary_loss_weight: 0.10
+  boundary_positive_weight: 20.0

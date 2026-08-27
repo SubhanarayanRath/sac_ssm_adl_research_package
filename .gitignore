@@ -12,8 +12,7 @@ venv/
 .ipynb_checkpoints/
 
 # Data
-data/raw/
-data/processed/
+data/
 *.npz
 *.csv
 
@@ -26,9 +25,13 @@ models/
 
 # Results / generated outputs
 results/
+result/
 research/logs/
 research/results/
 research/models/
+
+# Local baseline backup
+baselines/
 
 # Temporary / debug files
 *.tmp
